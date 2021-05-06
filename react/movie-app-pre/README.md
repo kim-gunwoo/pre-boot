@@ -8,3 +8,7 @@
 
 > DATE : 2021-05-05
 > npm i aixos
+
+> DATE : 2021-05-06
+> npm i gh-pages
+> https://kim-gunwoo.github.io/movie-app-pre/
